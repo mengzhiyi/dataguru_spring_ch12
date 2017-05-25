@@ -1,0 +1,5 @@
+com\adamfei\entity\Contact.class
+com\adamfei\service\impl\ContactService.class
+com\adamfei\controller\ContactController.class
+com\adamfei\dao\ContactDao.class
+com\adamfei\service\IContactService.class
